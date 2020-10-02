@@ -1,0 +1,48 @@
+#titulo {
+    margin: 0 auto;
+    background-color: rgb(129, 35, 35);
+    text-align: center;
+    font-style: italic;
+    font-size: 80px;
+    font-family: Bradley Hand, cursive;
+    color: darkgreen;
+    text-shadow: 0 0 0.2em #8F7;
+ 
+}   
+
+#contato {
+    margin: 0 auto;
+    background-color: brown;
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    font-family: Bradley Hand, cursive;
+    color: rgb(7, 7, 7);
+    text-shadow: 0 0 0.2em #8F7;
+}
+
+#cardapio {
+    display: block;
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 80px;
+    font-family:Bradley Hand, cursive;
+    color:lawngreen;   
+    text-shadow: 0 0 0.2em #000000;
+    text-transform: capitalize; 
+    text-decoration: wavy;
+    
+}
+
+#body {
+    display: block;
+
+    background-size: cover;
+    background-repeat:no-repeat; 
+    background-image: url(https://diaonline.ig.com.br/wp-content/uploads/2019/01/pizza-em-goiania-12-pizzarias-incriveis-para-conhecer.jpg;)
+        
+}
+
+
+    
